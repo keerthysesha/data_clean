@@ -110,6 +110,6 @@ df.isnull().sum()
 
 ![image](https://github.com/keerthysesha/data_clean/assets/125575936/c95a1220-148e-420d-be3c-a07903424b9c)
 
+## RESULT:
+           Thus the given data is read,cleansed and the cleaned data is saved into the file.
 
-NON NULL AFTER:
-image
